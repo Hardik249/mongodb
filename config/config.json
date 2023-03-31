@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "",
+    "password": null,
+    "database": "database-development",
+    "host": "localhost",
+    "dialect": "mongoose"
+  },
+  "test": {
+    "username": "",
+    "password": null,
+    "database": "database-test",
+    "host": "localhost",
+    "dialect": "mongoose"
+  },
+  "production": {
+    "username": "",
+    "password": null,
+    "database": "database-production",
+    "host": "localhost",
+    "dialect": "mongoose"
+  }
+}
